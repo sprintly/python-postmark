@@ -1,0 +1,28 @@
+This work was packaged for Debian by:
+
+    Matt Robenolt <matt@ydekproductions.com> on Tue, 06 Mar 2012 11:04:21 +0000
+
+It was downloaded from https://github.com/sprintly/django-debug-toolbar
+
+Upstream Author(s):
+
+    David Martorana (http://davemartorana.com)
+
+Copyright:
+
+    Copyright (C) 2012 David Cramer
+
+License:
+
+    Copyright (c) David Martorana and individual contributors.
+    All rights reserved.
+
+On Debian systems, the complete text of the BSD License can be
+found in `/usr/share/common-licenses/BSD'.
+
+The Debian packaging is:
+
+    Copyright (C) 2012 Matt Robenolt <matt@ydekproductions.com>
+
+and is licensed under the GPL version 3, 
+see `/usr/share/common-licenses/GPL-3'.
